@@ -1,0 +1,5 @@
+{
+  "maps": {
+    "dv_1":{"brushes":[["0","-5",10,5,"brick"],["22.5","-1",12.5,1,"brick"],["11.5","14",1.5,5,"brick"]],"entities":[[0,0,"info_player",{}],[24,14,"light",{"range":10,"intensity":10}],[0,14,"light",{"range":10,"intensity":10}]]}
+  }
+}
